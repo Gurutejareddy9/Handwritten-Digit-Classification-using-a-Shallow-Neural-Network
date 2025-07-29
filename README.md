@@ -1,10 +1,4 @@
-# Sem 5 Deep Learning Experiments
-
-This repository contains the experiments for the 5th semester of my B.Sc in Data Science and Artificial Intelligence.
-
-## Experiments
-
-### Experiment 1: Handwritten Digit Classification using a Shallow Neural Network
+# Handwritten Digit Classification using a Shallow Neural Network
 
 *   **Objective:** To classify handwritten digits (0-9) from the MNIST dataset using a shallow feedforward neural network.
 *   **Dataset:** MNIST (Modified National Institute of Standards and Technology) dataset
